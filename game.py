@@ -23,3 +23,7 @@ class Game:
         player_two = str(p2)
         game_board = board.Board
         game_moves = []
+
+    def check_legal_move(self):
+        # figures whether the move is legal based on whether the piece is in check or will be put in check
+        pass
