@@ -1,4 +1,5 @@
 import piece
+
 """
 The board contains:
 - The pieces
