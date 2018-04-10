@@ -1,13 +1,3 @@
-def listen_for_command():
-    # this will be listening for mentions of the twitterbot
-    pass
-
-
-def legitimate_command():
-    # this checks to see whether the command sent to the bot is a legitimate one
-    pass
-
-
 def new_game_command():
     # this is the command if a new game is triggered
     pass
